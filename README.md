@@ -1,2 +1,2 @@
 # QCM
-Qeuestionnaire interactif sous jquery
+Questionnaire interactif sous jquery
